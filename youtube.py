@@ -7,7 +7,7 @@ SAVE_PATH = "C:\\Users\\CB Shukla\\Desktop\\Python Youtube" #to_do
 # link of the video to be downloaded
 
 '''***  IMPORTANT  ***'''
-print("\n"+"*"*40+"GREETINGS MAMA JI"+"*"*40)
+print("\n"+"*"*40+"GREETINGS USER"+"*"*40)
 print("\nEnter the Youtube video link : ")
 link=input()
 
